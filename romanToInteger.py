@@ -11,11 +11,12 @@ def romanToInteger(string):
     my_dict={ "I"   :  1,'V': 5,'X': 10,'L' : 50,'C' : 100,'D' : 500,'M' : 1000 }
     print(my_dict)
     output=0
-    N=len(string)-1
+    N=len(string)
     i=N-1
     while i>=0:
-        if my_dict[string[i]]>my_dict[string[i+1]] and i<N-1:
-            output=output - my_dict[string[i]]
+        # check the previous is more than current one
+        if i < N-1 & my_dict[string[i]] < my_dict[string[i+1]] : 
+            output= output - my_dict[string[i]]
             # print("output")
         else:
             output=output+ my_dict[string[i]]
