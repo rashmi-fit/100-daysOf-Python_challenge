@@ -14,7 +14,6 @@ def romanToInteger(string):
                'L': 50, 'C': 100, 'D': 500, 'M': 1000}
     print(my_dict)
     output = 0
-    # i=len(string)-1
     for i in range(len(string)):
         if i+1 != len(string) and my_dict[string[i]] < my_dict[string[i+1]]:
             output = output - my_dict[string[i]]
@@ -23,4 +22,7 @@ def romanToInteger(string):
     return output
 
 
-print(romanToInteger('III'))
+# print(romanToInteger('IX'))
+# print(romanToInteger('LVIII'))
+print(romanToInteger('MCMXCIV'))
+
