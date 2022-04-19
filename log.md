@@ -16,3 +16,14 @@ and saw some videos and somehow tried to understand and do it.
 Thoughts: I am feeling frustrated and its not happening. I feel demotivated
 
 **Link to work:** https://github.com/rashmi-fit/100-daysOf-Python_challenge/blob/main/longest_common.py
+
+**Day 2: April 19. Tuesday**
+
+Today's Progress: Spent more than one hours just to solve one problem. I have googled 
+and saw some videos and somehow tried to understand and still not able to make it working.
+
+Thoughts: I am feeling frustrated sad,demotivated and what not, its not happening. I feel demotivated
+
+**Link to work:** https://github.com/rashmi-fit/100-daysOf-Python_challenge/blob/main/valid_parenthesis.py
+
+
