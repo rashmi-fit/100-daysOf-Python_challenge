@@ -26,4 +26,12 @@ Thoughts: I am feeling frustrated sad,demotivated and what not, its not happenin
 
 **Link to work:** https://github.com/rashmi-fit/100-daysOf-Python_challenge/blob/main/valid_parenthesis.py
 
+**Day 3: April 20. Wednesday**
+
+Today's Progress: Spent a few minutes to solve a program
+
+Thoughts: I am still feeling frustrated and loads of negative thoughts
+
+**Link to work:** 
+
 
