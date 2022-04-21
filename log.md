@@ -34,4 +34,11 @@ Thoughts: I am still feeling frustrated and loads of negative thoughts
 
 **Link to work:** 
 
+**Day 4: April 21st. Thrusday**
+
+Today's Progress: Spent a few minutes to solve a program and i am able to apply the logic without google today.
+
+Thoughts: I am feeling somehow confident and feels so better today.
+
+**Link to work:** 
 
