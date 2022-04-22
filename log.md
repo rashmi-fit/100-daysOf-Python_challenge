@@ -34,7 +34,7 @@ Thoughts: I am still feeling frustrated and loads of negative thoughts
 
 **Link to work:** https://github.com/rashmi-fit/100-daysOf-Python_challenge/blob/main/avg_marks.py
 
-**Day 4: April 21st. Thrusday**
+**Day 4: April 21st Thrusday**
 
 Today's Progress: Spent a few minutes to solve a program and i am able to apply the logic without google today.
 
@@ -42,3 +42,10 @@ Thoughts: I am feeling somehow confident and feels so better today.
 
 **Link to work:** https://github.com/rashmi-fit/100-daysOf-Python_challenge/blob/main/separatelist.py 
 
+**Day 5: April 22nd Friday**
+
+Today's Progress: 
+
+Thoughts: 
+
+**Link to work:** 
