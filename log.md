@@ -44,8 +44,8 @@ Thoughts: I am feeling somehow confident and feels so better today.
 
 **Day 5: April 22nd Friday**
 
-Today's Progress: 
+Today's Progress: I am able to solve with the help of google and other folks in discord
 
-Thoughts: 
+Thoughts: I feel frustrated,because i am doing silly mistakes and its annoying. Logic was correct but need more attention
 
 **Link to work:** 
