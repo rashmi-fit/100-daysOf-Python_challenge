@@ -56,4 +56,4 @@ Today's Progress: i used basic programming and able to do pbasics
 
 Thoughts: Somehow i felt confident,may be because people over discord helped me and i feel good about it
 
-**Link to work:** 
+**Link to work:** https://github.com/rashmi-fit/100-daysOf-Python_challenge/blob/11bdff369392f939478a174cd9e0b2b6df7aff65/fibonaccie.py
