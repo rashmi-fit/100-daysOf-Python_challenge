@@ -52,8 +52,8 @@ Thoughts: I feel frustrated,because i am doing silly mistakes and its annoying. 
 
 **Day 6: April 23rd Saturday**
 
-Today's Progress: 
+Today's Progress: i used basic programming and able to do pbasics
 
-Thoughts: 
+Thoughts: Somehow i felt confident,may be because people over discord helped me and i feel good about it
 
 **Link to work:** 
