@@ -48,4 +48,4 @@ Today's Progress: I am able to solve with the help of google and other folks in 
 
 Thoughts: I feel frustrated,because i am doing silly mistakes and its annoying. Logic was correct but need more attention
 
-**Link to work:** 
+**Link to work:** https://github.com/rashmi-fit/100-daysOf-Python_challenge/blob/main/binarySearch.py
