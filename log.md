@@ -58,7 +58,7 @@ Thoughts: Somehow i felt confident,may be because people over discord helped me 
 
 **Link to work:** https://github.com/rashmi-fit/100-daysOf-Python_challenge/blob/11bdff369392f939478a174cd9e0b2b6df7aff65/fibonaccie.py
 
-**Day 6: April 24th Sunday**
+**Day 7: April 24th Sunday**
 
 Today's Progress: i did programming from python university
 
