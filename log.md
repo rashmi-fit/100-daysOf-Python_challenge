@@ -65,3 +65,10 @@ Today's Progress: i did programming from python university
 Thoughts: I played around with different conditional loops. Solved some of the problems. Feeling quiet confident on this front.
 
 **Link to work:** 
+
+**Day 8: April 25th Monday**
+
+Today's Progress: i did programming from letecode,i learnt about merge two list and sort it,
+
+Thoughts: Today was bit better feeling ,i can made my brain function
+**Link to work:** 
