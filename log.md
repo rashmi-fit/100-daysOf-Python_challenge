@@ -87,7 +87,7 @@ Today's Progress: i spend very less time and able to solve two small questions f
 
 Thoughts: i feel confident today, i solved a single question in different ways.I tried first then did a google.I am happy today.
 
-**Link to work:** 
+**Link to work:** https://github.com/rashmi-fit/100-daysOf-Python_challenge/blob/main/implementstrSTR.py
 
 **Day 11: April 28th Thrusday**
 
