@@ -80,3 +80,19 @@ Today's Progress: i am able to code today by my own,felt so great, i converted i
 Thoughts: I feel more confident than yesterday. It was a good day.Logic are coming automatically
 
 **Link to work:** 
+
+**Day 10: April 27th Wednesday**
+
+Today's Progress: i spend very less time and able to solve two small questions from letecode
+
+Thoughts: i feel confident today, i solved a single question in different ways.I tried first then did a google.I am happy today.
+
+**Link to work:** 
+
+**Day 11: April 28th Thrusday**
+
+Today's Progress: 
+
+Thoughts: 
+
+**Link to work:** 
