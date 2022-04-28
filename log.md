@@ -91,6 +91,14 @@ Thoughts: i feel confident today, i solved a single question in different ways.I
 
 **Day 11: April 28th Thrusday**
 
+Today's Progress: I had very fewtime to invest today, but i think i progressed in solving string problems
+
+Thoughts: i am bit happy may be because problems were easy
+
+**Link to work:** 
+
+**Day 12: April 29th Friday**
+
 Today's Progress: 
 
 Thoughts: 
