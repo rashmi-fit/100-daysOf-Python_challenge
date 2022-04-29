@@ -99,8 +99,8 @@ Thoughts: i am bit happy may be because problems were easy
 
 **Day 12: April 29th Friday**
 
-Today's Progress: 
+Today's Progress: I am trying to solve the excelsheet column title
 
-Thoughts: 
+Thoughts: Its such a demotivating day, i was not able to do a single code
 
 **Link to work:** 
