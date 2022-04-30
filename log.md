@@ -104,3 +104,11 @@ Today's Progress: I am trying to solve the excelsheet column title
 Thoughts: Its such a demotivating day, i was not able to do a single code
 
 **Link to work:** 
+
+**Day 13: April 30th Friday**
+
+Today's Progress: I am trying to solve the string
+
+Thoughts: Its still a demotivating day for me
+
+**Link to work:** 
