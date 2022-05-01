@@ -95,7 +95,7 @@ Today's Progress: I had very fewtime to invest today, but i think i progressed i
 
 Thoughts: i am bit happy may be because problems were easy
 
-**Link to work:** 
+**Link to work:** https://github.com/rashmi-fit/100-daysOf-Python_challenge/commit/17202d0d1066d9d65d2f0799d95c79201bc70885
 
 **Day 12: April 29th Friday**
 
@@ -103,7 +103,7 @@ Today's Progress: I am trying to solve the excelsheet column title
 
 Thoughts: Its such a demotivating day, i was not able to do a single code
 
-**Link to work:** 
+**Link to work:** https://github.com/rashmi-fit/100-daysOf-Python_challenge/commit/8b2e62d75050c74ad50ee9ab512331694da0fa37
 
 **Day 13: April 30th Satday**
 
@@ -111,7 +111,7 @@ Today's Progress: I am trying to solve the string
 
 Thoughts: Its still a demotivating day for me
 
-**Link to work:** 
+**Link to work:** https://github.com/rashmi-fit/100-daysOf-Python_challenge/commit/c38608ecb93a33683fd4527bd5deacc9d1835012
 
 **Day 14: May 1st Sunday**
 
@@ -119,4 +119,4 @@ Today's Progress: I am trying to solve the string split and join
 
 Thoughts: I feel good,i am able to solve today in different ways
 
-**Link to work:** 
+**Link to work:** https://github.com/rashmi-fit/100-daysOf-Python_challenge/commit/582d1607906c8e9aeda02d9e760d08b1d4a90a4d
