@@ -105,10 +105,18 @@ Thoughts: Its such a demotivating day, i was not able to do a single code
 
 **Link to work:** 
 
-**Day 13: April 30th Friday**
+**Day 13: April 30th Satday**
 
 Today's Progress: I am trying to solve the string
 
 Thoughts: Its still a demotivating day for me
+
+**Link to work:** 
+
+**Day 14: May 1st Sunday**
+
+Today's Progress: I am trying to solve the string split and join
+
+Thoughts: I feel good,i am able to solve today in different ways
 
 **Link to work:** 
