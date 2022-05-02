@@ -120,3 +120,12 @@ Today's Progress: I am trying to solve the string split and join
 Thoughts: I feel good,i am able to solve today in different ways
 
 **Link to work:** https://github.com/rashmi-fit/100-daysOf-Python_challenge/commit/582d1607906c8e9aeda02d9e760d08b1d4a90a4d
+
+**Day 15: 2nd May  Monday**
+
+Today's Progress: I am trying to solve majority element
+
+Thoughts: I am still trying to solve
+
+**Link to work:** 
+
