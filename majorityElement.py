@@ -6,6 +6,7 @@ You may assume that the majority element always exists in the array.
 https://leetcode.com/problems/majority-element/
 '''
 list1=[2,1,1,1,1,2,2]
+# list1=int(input("enter numbers only in this list"))
 majority=len(list1)/2
 dict_freq={}
 for num in list1:
