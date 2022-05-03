@@ -129,3 +129,11 @@ Thoughts: I am still trying to solve
 
 **Link to work:** 
 
+**Day 16: 3rd May  Monday**
+
+Today's Progress: I solved from geeks for geeks, its going good.I solved the easy ones and i feel for the first tie in history i am able to solve
+
+Thoughts: i feel good and confident
+
+**Link to work:** 
+
