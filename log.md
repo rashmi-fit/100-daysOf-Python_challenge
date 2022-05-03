@@ -127,7 +127,7 @@ Today's Progress: I am trying to solve majority element
 
 Thoughts: I am still trying to solve
 
-**Link to work:** 
+**Link to work:** https://github.com/rashmi-fit/100-daysOf-Python_challenge/commit/73019a261bd579fabeb985fcdf04df8cd6a5ee97
 
 **Day 16: 3rd May  Monday**
 
@@ -135,5 +135,5 @@ Today's Progress: I solved from geeks for geeks, its going good.I solved the eas
 
 Thoughts: i feel good and confident
 
-**Link to work:** 
+**Link to work:** https://github.com/rashmi-fit/100-daysOf-Python_challenge/commit/bb0595fb9020d27fa7b1c071cd8426e1b4fde50f
 
