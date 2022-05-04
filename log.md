@@ -139,9 +139,9 @@ Thoughts: i feel good and confident
 
 **Day 17: 4th May  Monday**
 
-Today's Progress: ilearnt about validating email id using regex
+Today's Progress: i learnt about validating email id,username,url using regex 
 
 Thoughts: i feel good and confident
 
-**Link to work:** 
+**Link to work:**  https://github.com/rashmi-fit/100-daysOf-Python_challenge/commit/827a6be22c32ca44bee97d9be7470a4472d5dfa8
 
