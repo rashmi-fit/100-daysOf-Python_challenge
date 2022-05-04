@@ -137,3 +137,11 @@ Thoughts: i feel good and confident
 
 **Link to work:** https://github.com/rashmi-fit/100-daysOf-Python_challenge/commit/bb0595fb9020d27fa7b1c071cd8426e1b4fde50f
 
+**Day 17: 4th May  Monday**
+
+Today's Progress: ilearnt about validating email id using regex
+
+Thoughts: i feel good and confident
+
+**Link to work:** 
+
