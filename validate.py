@@ -15,7 +15,7 @@ email=input("whats your email id? ").strip()
 # else:
 #     print("Invalid")
 
-if re.search("^\w+@\w+\.(com|gmail|edu)$",email,re.IGNORECASE):
+if re.search("^\w+@(\w+\.)?\w+\.(com|gmail|edu)$",email,re.IGNORECASE):
     print("valid")
 else:
     print("Invalid")
