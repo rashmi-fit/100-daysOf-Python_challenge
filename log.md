@@ -153,4 +153,9 @@ Thoughts: i feel frustrated initially but now feeling good as i was able to solv
 
 **Link to work:**  
 
+**Day 19: 6th May  Friday**
 
+Today's Progress: i have solved basic problem today
+Thoughts: i feel good as i am able to solve it.
+
+**Link to work:**  
