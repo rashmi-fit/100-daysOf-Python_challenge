@@ -169,8 +169,8 @@ Thoughts: i feel so good ,i did it by my own
 
 **Day 21: 8th May  sunday**
 
-Today's Progress: 
-Thoughts: 
+Today's Progress: i am trying to learn ugly num today
+Thoughts: i progressed but i think i am still stuck with it, it s silly mistake in the functin call
 
 **Link to work:**  
 
