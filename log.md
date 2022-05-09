@@ -176,7 +176,7 @@ Thoughts: i progressed but i think i am still stuck with it, it s silly mistake 
 
 **Day 22: 9th May  Monday**
 
-Today's Progress: 
-Thoughts: 
+Today's Progress: I learnt word pattern todat
+Thoughts: i tried two ways and it worked fine for me
 
 **Link to work:**  
