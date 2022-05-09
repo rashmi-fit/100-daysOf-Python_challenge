@@ -159,3 +159,24 @@ Today's Progress: i have solved basic problem today
 Thoughts: i feel good as i am able to solve it.
 
 **Link to work:**  
+
+**Day 20: 7th May  Satday**
+
+Today's Progress: i learnt how to use random and used it in one of the program
+Thoughts: i feel so good ,i did it by my own
+
+**Link to work:**  
+
+**Day 21: 8th May  sunday**
+
+Today's Progress: 
+Thoughts: 
+
+**Link to work:**  
+
+**Day 22: 9th May  Monday**
+
+Today's Progress: 
+Thoughts: 
+
+**Link to work:**  
