@@ -176,7 +176,14 @@ Thoughts: i progressed but i think i am still stuck with it, it s silly mistake 
 
 **Day 22: 9th May  Monday**
 
-Today's Progress: I learnt word pattern todat
+Today's Progress: I learnt word pattern today
 Thoughts: i tried two ways and it worked fine for me
+
+**Link to work:**  
+
+**Day 23: 10th May  Tuesday**
+
+Today's Progress: i have used while loop programs from python university
+Thoughts: i did it wothout any help and feels good
 
 **Link to work:**  
