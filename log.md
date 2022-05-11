@@ -187,3 +187,9 @@ Today's Progress: i have used while loop programs from python university
 Thoughts: i did it wothout any help and feels good
 
 **Link to work:**  
+
+**Day 24: 11th May  Wednesday**
+Today's Progress:  i have solved power of 3 problem from letecode
+Thoughts: i think i am progressing, i have solved in two ways, i solved by my own and didnt take help. hurreyy
+
+**Link to work:** 
