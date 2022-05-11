@@ -5,7 +5,7 @@ https://leetcode.com/problems/power-of-three/
 An integer n is a power of three, if there exists an integer x such that n == 3x.
 '''
 
-num=int(input("enter a number: "))
+# num=int(input("enter a number: "))
 
 # while True:
 #     if num!=0 and num%3==0:
@@ -15,6 +15,7 @@ num=int(input("enter a number: "))
 #         print(f"false {num}")
 #         break
 
+num=int(input("enter a number: "))
 if num==0:
     print(f"false {num}")
 
