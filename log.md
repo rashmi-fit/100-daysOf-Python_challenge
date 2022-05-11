@@ -192,4 +192,4 @@ Thoughts: i did it wothout any help and feels good
 Today's Progress:  i have solved power of 3 problem from letecode
 Thoughts: i think i am progressing, i have solved in two ways, i solved by my own and didnt take help. hurreyy
 
-**Link to work:** 
+**Link to work:** https://github.com/rashmi-fit/100-daysOf-Python_challenge/commit/8771177e49d7d917a7d818ea8e16acee91bb4b90
