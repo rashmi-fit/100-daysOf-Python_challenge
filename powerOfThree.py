@@ -15,13 +15,13 @@ An integer n is a power of three, if there exists an integer x such that n == 3x
 #         print(f"false {num}")
 #         break
 
-# num=int(input("enter a number: "))
-# if num==0:
-#     print(f"false {num}")
+num=int(input("enter a number: "))
+if num==0:
+    print(f"false {num}")
 
-# while num!=1:
-#     if num%3!=0:
-#         print(f"false {num}")
-#     num=num//3
-# print(f"true {num}")
+while num!=1:
+    if num%3!=0:
+        print(f"false {num}")
+    num=num//3
+print(f"true {num}")
 
