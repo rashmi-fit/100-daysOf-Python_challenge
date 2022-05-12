@@ -196,6 +196,7 @@ Thoughts: i think i am progressing, i have solved in two ways, i solved by my ow
 
 **Day 25: 12 May  Thrusday**
 Today's Progress:  i have solved power of 4 problem from letecode
+
 Thoughts: i feel good and satisfied
 
-**Link to work:** 
+**Link to work:**  https://github.com/rashmi-fit/100-daysOf-Python_challenge/commit/05bf866eeb44a823b30cf5d7ab5da69829d2a5f5
