@@ -208,3 +208,11 @@ Today's Progress:  i tried to do ransome num
 Thoughts: i feel frustrated today
 
 **Link to work:**  
+
+**Day 27: 14th May  Friday**
+
+Today's Progress:  i have revisited the python programs done in the class
+
+Thoughts: i feel good that i remember the old programs
+
+**Link to work:**  
