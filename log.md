@@ -216,3 +216,11 @@ Today's Progress:  i have revisited the python programs done in the class
 Thoughts: i feel good that i remember the old programs
 
 **Link to work:**  
+
+**Day 27: 15th May  Friday**
+
+Today's Progress:  today also i have revisited the python programs done in the class
+
+Thoughts: i feel good that i remember the old programs
+
+**Link to work:**  
