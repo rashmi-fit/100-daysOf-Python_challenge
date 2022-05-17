@@ -202,14 +202,14 @@ Thoughts: i feel good and satisfied
 
 **Link to work:**  https://github.com/rashmi-fit/100-daysOf-Python_challenge/commit/05bf866eeb44a823b30cf5d7ab5da69829d2a5f5
 
-**Day 26: 13th May  Thrusday**
+**Day 26: 13th May  Friday**
 Today's Progress:  i tried to do ransome num
 
 Thoughts: i feel frustrated today
 
 **Link to work:**  
 
-**Day 27: 14th May  Friday**
+**Day 27: 14th May  Satday**
 
 Today's Progress:  i have revisited the python programs done in the class
 
@@ -217,7 +217,7 @@ Thoughts: i feel good that i remember the old programs
 
 **Link to work:**  
 
-**Day 27: 15th May  Friday**
+**Day 28: 15th May  Sunday**
 
 Today's Progress:  today also i have revisited the python programs done in the class
 
@@ -225,10 +225,26 @@ Thoughts: i feel good that i remember the old programs
 
 **Link to work:**  
 
-**Day 28: 16th May  Friday**
+**Day 29: 16th May  Monday**
 
 Today's Progress: i have revisited the python programs done in the class
 
 Thoughts: i still able to recall what i did prior which is good i feel
 
 **Link to work:**  
+
+**Day 30: 17th May  Tuesday**
+
+Today's Progress: i am refreshing what i learnt from the beginning
+
+Thoughts: i think i remember whats going on and how much i remember
+
+**Link to work:**  
+
+**Day 31: 18th May  Wedday**
+
+Today's Progress: 
+
+Thoughts: 
+
+**Link to work:** 
