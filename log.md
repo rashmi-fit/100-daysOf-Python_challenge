@@ -241,10 +241,10 @@ Thoughts: i think i remember whats going on and how much i remember
 
 **Link to work:**  
 
-**Day 31: 18th May  Wedday**
+**Day 31: 18th May  Thrusday**
 
-Today's Progress: 
+Today's Progress: i have gone through the previous class questions in python
 
-Thoughts: 
+Thoughts: i am able to solve and understand quickly. I feel happy
 
 **Link to work:** 
