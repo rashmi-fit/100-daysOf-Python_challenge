@@ -247,7 +247,7 @@ Today's Progress: i have gone through the previous class questions in python
 
 Thoughts: i am able to solve and understand quickly. I feel happy
 
-**Link to work:** 
+**Link to work:**  
 
 **Day 32: 19th May  Thrusday**
 
