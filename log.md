@@ -251,16 +251,16 @@ Thoughts: i am able to solve and understand quickly. I feel happy
 
 **Day 32: 19th May  Thrusday**
 
-Today's Progress: 
+Today's Progress: i had gone through the class notes and practiced something very simple
 
-Thoughts: 
+Thoughts: i am feeling good and nice 
 
 **Link to work:** 
 
-**Day 33: 20th May  Friday**
+**Day 33: 21st May  Satday**
 
-Today's Progress: 
+Today's Progress: i learnt file handling using python
 
-Thoughts: 
+Thoughts: i feel good and able to solve the interview query
 
 **Link to work:** 
