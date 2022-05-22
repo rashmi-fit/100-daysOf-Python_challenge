@@ -264,3 +264,11 @@ Today's Progress: i learnt file handling using python
 Thoughts: i feel good and able to solve the interview query
 
 **Link to work:** 
+
+**Day 34: 21st May  Sunday**
+
+Today's Progress: learning from greeeks
+
+Thoughts: 
+
+**Link to work:** 
