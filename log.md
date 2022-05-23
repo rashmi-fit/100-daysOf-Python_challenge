@@ -269,6 +269,14 @@ Thoughts: i feel good and able to solve the interview query
 
 Today's Progress: learning from greeeks
 
-Thoughts: 
+Thoughts: i felt quiet low
+
+**Link to work:** 
+
+**Day 34: 23rd May  Monday**
+
+Today's Progress: learning from geeksforgeeks, i learnt the difference in args andkwargs
+
+Thoughts: i felt good, and solved this in differet ways
 
 **Link to work:** 
