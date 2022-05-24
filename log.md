@@ -280,3 +280,11 @@ Today's Progress: learning from geeksforgeeks, i learnt the difference in args a
 Thoughts: i felt good, and solved this in differet ways
 
 **Link to work:** 
+
+**Day 35: 24th May  Monday**
+
+Today's Progress: learning from geeksforgeeks, 
+
+Thoughts: i was not feeling like coding at alll,somehow managed to do it and learnt about collection
+
+**Link to work:** 
