@@ -273,7 +273,7 @@ Thoughts: i felt quiet low
 
 **Link to work:** 
 
-**Day 34: 23rd May  Monday**
+**Day 35: 23rd May  Monday**
 
 Today's Progress: learning from geeksforgeeks, i learnt the difference in args andkwargs
 
@@ -281,7 +281,7 @@ Thoughts: i felt good, and solved this in differet ways
 
 **Link to work:** 
 
-**Day 35: 24th May  Monday**
+**Day 36: 24th May  Monday**
 
 Today's Progress: learning from geeksforgeeks, 
 
