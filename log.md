@@ -281,10 +281,18 @@ Thoughts: i felt good, and solved this in differet ways
 
 **Link to work:** 
 
-**Day 36: 24th May  Monday**
+**Day 36: 24th May  Tuesday**
 
 Today's Progress: learning from geeksforgeeks, 
 
 Thoughts: i was not feeling like coding at alll,somehow managed to do it and learnt about collection
+
+**Link to work:** 
+
+**Day 37: 25th May  Wednesday**
+
+Today's Progress: learning from kaggle 
+
+Thoughts: i was learning from kaggle and solved very small bits of program and its working and i feel happy
 
 **Link to work:** 
