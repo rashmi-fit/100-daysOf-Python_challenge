@@ -296,3 +296,11 @@ Today's Progress: learning from kaggle
 Thoughts: i was learning from kaggle and solved very small bits of program and its working and i feel happy
 
 **Link to work:** 
+
+**Day 38: 26th May  Thrusday**
+
+Today's Progress: learning from kaggle 
+
+Thoughts: 
+
+**Link to work:** 
