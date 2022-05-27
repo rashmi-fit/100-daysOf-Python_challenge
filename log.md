@@ -304,3 +304,11 @@ Today's Progress: learning from kaggle
 Thoughts: 
 
 **Link to work:** 
+
+**Day 39: 27th May  Friday**
+
+Today's Progress: learning from Geeks and geeks 
+
+Thoughts: i was feeling low but somehow able to code today
+
+**Link to work:** 
