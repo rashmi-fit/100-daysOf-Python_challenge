@@ -312,3 +312,11 @@ Today's Progress: learning from Geeks and geeks
 Thoughts: i was feeling low but somehow able to code today
 
 **Link to work:** 
+
+**Day 40: 28th May  Satday**
+
+Today's Progress: learning inheritance from Geeks and geeks 
+
+Thoughts: somehow i tried to learn
+
+**Link to work:** 
