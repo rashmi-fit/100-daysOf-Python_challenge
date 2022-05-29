@@ -320,3 +320,11 @@ Today's Progress: learning inheritance from Geeks and geeks
 Thoughts: somehow i tried to learn
 
 **Link to work:** 
+
+**Day 41: 29th May  Sunday**
+
+Today's Progress: learning inheritance from Geeks and geeks 
+
+Thoughts: somehow i tried to learn and not a great day for me
+
+**Link to work:** 
