@@ -328,3 +328,11 @@ Today's Progress: learning inheritance from Geeks and geeks
 Thoughts: somehow i tried to learn and not a great day for me
 
 **Link to work:** 
+
+**Day 41: 30th May  Monday**
+
+Today's Progress: simple programs done , just so i will not miss the flow of coding
+
+Thoughts: even if i didnt had time, still manage to do it ,it feels so so good
+
+**Link to work:** 
