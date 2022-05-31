@@ -336,3 +336,11 @@ Today's Progress: simple programs done , just so i will not miss the flow of cod
 Thoughts: even if i didnt had time, still manage to do it ,it feels so so good
 
 **Link to work:** 
+
+**Day 42: 31st May  Tuesday**
+
+Today's Progress: learnt how to do linear algebra using python code 
+
+Thoughts: i feel good but exhausted 
+
+**Link to work:** 
