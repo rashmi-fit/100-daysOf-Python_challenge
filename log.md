@@ -344,3 +344,19 @@ Today's Progress: learnt how to do linear algebra using python code
 Thoughts: i feel good but exhausted 
 
 **Link to work:** 
+
+**Day 43: 5th June  Sunday**
+
+Today's Progress:  
+
+Thoughts: 
+
+**Link to work:** 
+
+**Day 44: 6th June  Monday**
+
+Today's Progress:  
+
+Thoughts: 
+
+**Link to work:** 
