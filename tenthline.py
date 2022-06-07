@@ -17,3 +17,10 @@ Line 9
 Line 10
 '''
 
+userinput= input("enter the text")
+
+file= open("https://github.com/rashmi-fit/100-daysOf-Python_challenge/blob/main/file.txt",'r')
+
+for line in file:
+    if userinput in line:
+        print(line)
