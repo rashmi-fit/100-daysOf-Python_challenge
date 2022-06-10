@@ -368,3 +368,27 @@ Today's Progress:  Today i learnt how to read some lines from a text file using 
 Thoughts: Somehow agter a gap of 6 days i started to code again and feels good
 
 **Link to work:** 
+
+**Day 46: 8th June  Wednesday**
+
+Today's Progress:  Today i learnt how to read some lines from a text file using python
+
+Thoughts: Somehow agter a gap of 6 days i started to code again and feels good
+
+**Link to work:** 
+
+**Day 47: 9th June  Thursday**
+
+Today's Progress:  Today i learnt how to read some lines from a text file using python
+
+Thoughts: Somehow agter a gap of 6 days i started to code again and feels good
+
+**Link to work:** 
+
+**Day 48: 10th June  Friday**
+
+Today's Progress:  Today i tried to learn the diagonally dependent matrix using python
+
+Thoughts: i can undersstand the code clearly, feels good
+
+**Link to work:** 
