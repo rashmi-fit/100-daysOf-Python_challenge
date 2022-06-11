@@ -392,3 +392,11 @@ Today's Progress:  Today i tried to learn the diagonally dependent matrix using 
 Thoughts: i can undersstand the code clearly, feels good
 
 **Link to work:** 
+
+**Day 49: 10th June  Satday**
+
+Today's Progress:  I tried to code the mathematical formulas using python like jacard coefficient, coefficient and variance
+
+Thoughts: it feels good and feeling confident
+
+**Link to work:** 
