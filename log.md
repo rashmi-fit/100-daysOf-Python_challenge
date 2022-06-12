@@ -393,10 +393,18 @@ Thoughts: i can undersstand the code clearly, feels good
 
 **Link to work:** 
 
-**Day 49: 10th June  Satday**
+**Day 49: 11th June  Satday**
 
 Today's Progress:  I tried to code the mathematical formulas using python like jacard coefficient, coefficient and variance
 
 Thoughts: it feels good and feeling confident
+
+**Link to work:** 
+
+**Day 50: 12th June  Sunday**
+
+Today's Progress:  I tried to code the mathematical formulas using python 
+
+Thoughts: it feels good and feeling confident and happy
 
 **Link to work:** 
