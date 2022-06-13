@@ -408,3 +408,11 @@ Today's Progress:  I tried to code the mathematical formulas using python
 Thoughts: it feels good and feeling confident and happy
 
 **Link to work:** 
+
+**Day 51: 13th June  Sunday**
+
+Today's Progress:  I tried to code the mathematical formulas using python for diagonal dependent matrix
+
+Thoughts: I am able to do it and feels good
+
+**Link to work:** 
