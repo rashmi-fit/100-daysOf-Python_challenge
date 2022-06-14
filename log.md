@@ -416,3 +416,11 @@ Today's Progress:  I tried to code the mathematical formulas using python for di
 Thoughts: I am able to do it and feels good
 
 **Link to work:** 
+
+**Day 52: 14th June  Sunday**
+
+Today's Progress:  I tried to code the mathematical formulas using python for diagonal dominant matrix
+
+Thoughts: I am able to do it and feels good
+
+**Link to work:** 
