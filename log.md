@@ -409,7 +409,7 @@ Thoughts: it feels good and feeling confident and happy
 
 **Link to work:** 
 
-**Day 51: 13th June  Sunday**
+**Day 51: 13th June  Monday**
 
 Today's Progress:  I tried to code the mathematical formulas using python for diagonal dependent matrix
 
@@ -417,10 +417,18 @@ Thoughts: I am able to do it and feels good
 
 **Link to work:** 
 
-**Day 52: 14th June  Sunday**
+**Day 52: 14th June  Tuesday**
 
 Today's Progress:  I tried to code the mathematical formulas using python for diagonal dominant matrix
 
 Thoughts: I am able to do it and feels good
+
+**Link to work:** 
+
+**Day 53: 15th June  Wednesday**
+
+Today's Progress:  I tried to learn graph in datastructure
+
+Thoughts: I am able understand it and feels good
 
 **Link to work:** 
