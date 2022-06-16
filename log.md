@@ -432,3 +432,11 @@ Today's Progress:  I tried to learn graph in datastructure
 Thoughts: I am able understand it and feels good
 
 **Link to work:** 
+
+**Day 54: 16th June  Thrusday**
+
+Today's Progress:  I tried to learn graph in datastructure
+
+Thoughts: I am still not able understand, again feeling low
+
+**Link to work:** 
