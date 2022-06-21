@@ -456,3 +456,19 @@ Today's Progress:  I tried to learn graph in datastructure and tree datastructur
 Thoughts: It feels good while coding 
 
 **Link to work:** 
+
+**Day 57: 20th June  Monday**
+
+Today's Progress:  I tried to implement tree data structure using array list only
+
+Thoughts: It feels good that without using any other third party i can do it
+
+**Link to work:** 
+
+**Day 58: 21st June  Tuesday**
+
+Today's Progress:  I tried to code for math diagonally dominant function 
+
+Thoughts: It feels good in progressing
+
+**Link to work:** 
