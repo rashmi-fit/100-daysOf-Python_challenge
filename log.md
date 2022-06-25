@@ -13,16 +13,16 @@ Thoughts: Feels good and excited to Code.I struggled a lot and googled how it ca
 Today's Progress: Spent more than two hours just to solve one problem. I have googled 
 and saw some videos and somehow tried to understand and do it.
 
-Thoughts: I am feeling frustrated and its not happening. I feel demotivated
+Thoughts: I am feeling frustrated and it's not happening. I feel demotivated
 
 **Link to work:** https://github.com/rashmi-fit/100-daysOf-Python_challenge/blob/main/longest_common.py
 
 **Day 2: April 19. Tuesday**
 
-Today's Progress: Spent more than one hours just to solve one problem. I have googled 
+Today's Progress: Spent more than one hour just to solve one problem. I have googled 
 and saw some videos and somehow tried to understand and still not able to make it working.
 
-Thoughts: I am feeling frustrated sad,demotivated and what not, its not happening. I feel demotivated
+Thoughts: I am feeling frustrated sad,demotivated and what not, it's not happening. I feel demotivated
 
 **Link to work:** https://github.com/rashmi-fit/100-daysOf-Python_challenge/blob/main/valid_parenthesis.py
 
@@ -34,9 +34,9 @@ Thoughts: I am still feeling frustrated and loads of negative thoughts
 
 **Link to work:** https://github.com/rashmi-fit/100-daysOf-Python_challenge/blob/main/avg_marks.py
 
-**Day 4: April 21st Thrusday**
+**Day 4: April 21st Thursday**
 
-Today's Progress: Spent a few minutes to solve a program and i am able to apply the logic without google today.
+Today's Progress: Spent a few minutes to solve a program and I am able to apply the logic without Google today.
 
 Thoughts: I am feeling somehow confident and feels so better today.
 
@@ -46,31 +46,31 @@ Thoughts: I am feeling somehow confident and feels so better today.
 
 Today's Progress: I am able to solve with the help of google and other folks in discord
 
-Thoughts: I feel frustrated,because i am doing silly mistakes and its annoying. Logic was correct but need more attention
+Thoughts: I feel frustrated,because I am doing silly mistakes and it's annoying. Logic was correct but need more attention
 
 **Link to work:** https://github.com/rashmi-fit/100-daysOf-Python_challenge/blob/main/binarySearch.py
 
 **Day 6: April 23rd Saturday**
 
-Today's Progress: i used basic programming and able to do pbasics
+Today's Progress: I used basic programming and able to do basics
 
-Thoughts: Somehow i felt confident,may be because people over discord helped me and i feel good about it
+Thoughts: Somehow I felt confident,may be because people over discord helped me and I feel good about it
 
 **Link to work:** https://github.com/rashmi-fit/100-daysOf-Python_challenge/blob/11bdff369392f939478a174cd9e0b2b6df7aff65/fibonaccie.py
 
 **Day 7: April 24th Sunday**
 
-Today's Progress: i did programming from python university
+Today's Progress: I did program from python university
 
-Thoughts: I played around with different conditional loops. Solved some of the problems. Feeling quiet confident on this front.
+Thoughts: I played around with different conditional loops. Solved some problems. Feeling quiet confident on this front.
 
 **Link to work:** https://github.com/rashmi-fit/100-daysOf-Python_challenge/blob/main/branchControl.py
 
 **Day 8: April 25th Monday**
 
-Today's Progress: i did programming from letecode,i learnt about merge two list and sort it,
+Today's Progress: I did program from delete,I learnt about merge two list and sort it,
 
-Thoughts: Today was bit better feeling ,i can made my brain function
+Thoughts: Today was bit better feeling ,I can make my brain function
 **Link to work:** https://github.com/rashmi-fit/100-daysOf-Python_challenge/blob/main/parenthesis.py
 
 **Day 9: April 26th Tuesday**
@@ -89,9 +89,9 @@ Thoughts: i feel confident today, i solved a single question in different ways.I
 
 **Link to work:** https://github.com/rashmi-fit/100-daysOf-Python_challenge/blob/main/implementstrSTR.py
 
-**Day 11: April 28th Thrusday**
+**Day 11: April 28th Thursday**
 
-Today's Progress: I had very fewtime to invest today, but i think i progressed in solving string problems
+Today's Progress: I had very few time to invest today, but I think I progressed in solving string problems
 
 Thoughts: i am bit happy may be because problems were easy
 
@@ -105,11 +105,11 @@ Thoughts: Its such a demotivating day, i was not able to do a single code
 
 **Link to work:** https://github.com/rashmi-fit/100-daysOf-Python_challenge/commit/8b2e62d75050c74ad50ee9ab512331694da0fa37
 
-**Day 13: April 30th Satday**
+**Day 13: April 30th SatDay**
 
 Today's Progress: I am trying to solve the string
 
-Thoughts: Its still a demotivating day for me
+Thoughts: It's still a demotivating day for me
 
 **Link to work:** https://github.com/rashmi-fit/100-daysOf-Python_challenge/commit/c38608ecb93a33683fd4527bd5deacc9d1835012
 
@@ -470,5 +470,29 @@ Thoughts: It feels good that without using any other third party i can do it
 Today's Progress:  I tried to code for math diagonally dominant function 
 
 Thoughts: It feels good in progressing
+
+**Link to work:** 
+
+**Day 58: 22nd June  Wednesday**
+
+Today's Progress:  I tried to code for math diagonally dominant function
+
+Thoughts: It feels good at progressing
+
+**Link to work:** 
+
+**Day 59: 23rd June  Thursday**
+
+Today's Progress:  I tried to code for math diagonally dominant function for gauss seidel and gauss jacobi
+
+Thoughts: It feels good at progressing but still stuck in logic
+
+**Link to work:** 
+
+**Day 60: 24th June  Saturday**
+
+Today's Progress:  I tried to code for heap data structure
+
+Thoughts: It feels good at progressing
 
 **Link to work:** 
