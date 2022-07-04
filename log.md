@@ -496,3 +496,11 @@ Today's Progress:  I tried to code for heap data structure
 Thoughts: It feels good at progressing
 
 **Link to work:** 
+
+**Day 61: 4th July 2022  Monday**
+
+Today's Progress:  I tried to code for tree data structure
+
+Thoughts: It feels good at progressing after a long time 
+
+**Link to work:** 
