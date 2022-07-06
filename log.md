@@ -515,8 +515,8 @@ Thoughts: preorder and inorder tree datastructure  in python is a different feel
 
 **Day 63: 6th July 2022  Wednesday**
 
-Today's Progress:  
+Today's Progress:  learning heapification
 
-Thoughts: 
+Thoughts: learning data structure is so cool
 
 **Link to work:** 
