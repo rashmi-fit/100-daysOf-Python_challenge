@@ -504,3 +504,19 @@ Today's Progress:  I tried to code for tree data structure
 Thoughts: It feels good at progressing after a long time 
 
 **Link to work:** 
+
+**Day 62: 5th July 2022  Tuesday**
+
+Today's Progress:  I tried to code for tree data structure for inorder and preorder
+
+Thoughts: preorder and inorder tree datastructure  in python is a different feeling
+
+**Link to work:** 
+
+**Day 63: 6th July 2022  Wednesday**
+
+Today's Progress:  
+
+Thoughts: 
+
+**Link to work:** 
