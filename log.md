@@ -520,3 +520,11 @@ Today's Progress:  learning heapification
 Thoughts: learning data structure is so cool
 
 **Link to work:** 
+
+**Day 64: 7th July 2022  Thursday**
+
+Today's Progress:  learnt graph data structure today
+
+Thoughts: finding it easy but there is a long way to go
+
+**Link to work:** 
