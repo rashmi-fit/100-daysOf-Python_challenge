@@ -527,4 +527,21 @@ Today's Progress:  learnt graph data structure today
 
 Thoughts: finding it easy but there is a long way to go
 
+**Link to work:**
+
+**Day 65: 8th July 2022  Friday**
+
+Today's Progress:  learnt graph data structure today
+
+Thoughts: finding it easy but there is a long way to go
+
 **Link to work:** 
+
+**Day 66: 9th July 2022  Saturday**
+
+Today's Progress:  
+
+Thoughts: it feels good coding daily even after hectic schedule
+
+**Link to work:** 
+
