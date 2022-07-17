@@ -545,3 +545,34 @@ Thoughts: it feels good coding daily even after hectic schedule
 
 **Link to work:** 
 
+**Day 67: 10th July 2022  Sunday**
+
+Today's Progress:
+
+Thoughts: it feels good coding daily even after hectic schedule
+
+**Link to work:** 
+
+**Day 68: 11th July 2022  Monday**
+
+Today's Progress: i was trying to understand spark and how it works
+
+Thoughts: it feels good coding daily even after hectic schedule
+
+**Link to work:** 
+
+**Day 69: 16th July 2022  Saturday**
+
+Today's Progress: I tried to extract data using spark from xml file
+
+Thoughts: it feels good coding daily even after hectic schedule
+
+**Link to work:** 
+
+**Day 70: 17th July 2022  Sunday**
+
+Today's Progress: I read data from xml and put it in the db using spark
+
+Thoughts: its difficult ans somedays mind doesnt work
+
+**Link to work:** https://github.com/rashmi-fit/dbt-fundamentals/tree/main/equalExperts/test_assessment
