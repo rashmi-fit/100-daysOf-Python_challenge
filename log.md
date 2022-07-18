@@ -576,3 +576,11 @@ Today's Progress: I read data from xml and put it in the db using spark
 Thoughts: its difficult ans somedays mind doesnt work
 
 **Link to work:** https://github.com/rashmi-fit/dbt-fundamentals/tree/main/equalExperts/test_assessment
+
+**Day 71: 18th July 2022  Monday**
+
+Today's Progress: learning python for excel people and preparing an expense calculator
+
+Thoughts: it feels great when  my code is working
+
+**Link to work:** 
