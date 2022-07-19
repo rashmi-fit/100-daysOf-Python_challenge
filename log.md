@@ -583,4 +583,12 @@ Today's Progress: learning python for excel people and preparing an expense calc
 
 Thoughts: it feels great when  my code is working
 
+**Link to work:**
+
+**Day 72: 19th July 2022  Tuesday**
+
+Today's Progress: Prepared an expense calculator
+
+Thoughts: i feel like pro lol,but feels good
+
 **Link to work:** 
