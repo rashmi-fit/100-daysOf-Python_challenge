@@ -592,3 +592,35 @@ Today's Progress: Prepared an expense calculator
 Thoughts: i feel like pro lol,but feels good
 
 **Link to work:** 
+
+**Day 73: 19th July 2022  Tuesday**
+
+Today's Progress: Prepared an expense calculator
+
+Thoughts: i feel like pro lol,but feels good
+
+**Link to work:** 
+
+**Day 74: 19th July 2022  Tuesday**
+
+Today's Progress: Prepared an expense calculator
+
+Thoughts: i feel like pro lol,but feels good
+
+**Link to work:** 
+
+**Day 75: 24th July 2022  Tuesday**
+
+Today's Progress: Prepared an expense calculator
+
+Thoughts: i feel like pro lol,but feels good
+
+**Link to work:** 
+
+**Day 76: 26th July 2022  Tuesday**
+
+Today's Progress: i was reading graph DS
+
+Thoughts: i feel better
+
+**Link to work:** 
