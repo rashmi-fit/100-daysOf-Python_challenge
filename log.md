@@ -624,3 +624,19 @@ Today's Progress: i was reading graph DS
 Thoughts: i feel better
 
 **Link to work:** 
+
+**Day 77: 27th July 2022  Wednesday**
+
+Today's Progress: 
+
+Thoughts: 
+
+**Link to work:** 
+
+**Day 78: 30th July 2022  Satday**
+
+Today's Progress: Learning object oriented programming
+
+Thoughts: I am able to do it perfectly thats what i feel and i don't feel scared
+
+**Link to work:** 
