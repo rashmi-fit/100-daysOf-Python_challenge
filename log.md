@@ -640,3 +640,11 @@ Today's Progress: Learning object oriented programming
 Thoughts: I am able to do it perfectly thats what i feel and i don't feel scared
 
 **Link to work:** 
+
+**Day 79: 31st July 2022  Sunday**
+
+Today's Progress: Learning object oriented programming
+
+Thoughts: it amazes me that i am able to code
+
+**Link to work:** 
