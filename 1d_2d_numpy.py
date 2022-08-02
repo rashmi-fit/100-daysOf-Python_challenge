@@ -2,7 +2,8 @@
 
 import numpy as np
 
-a= np.array([1,2,3])
+a = np.array([1,2,3])
 print(f'1d array is {a}')
-b=np.array([1,2,3],[3,4,5])
+b = np.array([[1,2,3], [3,4,5]])
+# b = np.array( [3,4,5])
 print(f'2d array is {b}')
