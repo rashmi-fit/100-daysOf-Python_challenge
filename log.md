@@ -651,16 +651,16 @@ Thoughts: it amazes me that i am able to code
 
 **Day 80: 1st Aug  Monday**
 
-Today's Progress: 
+Today's Progress: i learnt about oops concept and implemented using python
 
-Thoughts: 
+Thoughts: it feels good and confident
 
 **Link to work:** 
 
 **Day 81: 2nd Aug  Tuesday**
 
-Today's Progress: 
+Today's Progress: Solved some basic interview questions and its damn interesting
 
-Thoughts:  
+Thoughts:  It feels amazing when you can use the lambda ,map, list comprehension without hel pof google
 
 **Link to work:** 
