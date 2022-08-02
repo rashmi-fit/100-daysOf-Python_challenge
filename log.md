@@ -661,6 +661,6 @@ Thoughts:
 
 Today's Progress: 
 
-Thoughts: 
+Thoughts:  
 
 **Link to work:** 
