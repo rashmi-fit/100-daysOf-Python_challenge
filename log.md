@@ -648,3 +648,19 @@ Today's Progress: Learning object oriented programming
 Thoughts: it amazes me that i am able to code
 
 **Link to work:** 
+
+**Day 80: 1st Aug  Monday**
+
+Today's Progress: 
+
+Thoughts: 
+
+**Link to work:** 
+
+**Day 81: 2nd Aug  Tuesday**
+
+Today's Progress: 
+
+Thoughts: 
+
+**Link to work:** 
