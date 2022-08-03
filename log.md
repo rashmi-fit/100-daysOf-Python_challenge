@@ -664,3 +664,11 @@ Today's Progress: Solved some basic interview questions and its damn interesting
 Thoughts:  It feels amazing when you can use the lambda ,map, list comprehension without hel pof google
 
 **Link to work:** 
+
+**Day 81: 3rd Aug  Wednesday**
+
+Today's Progress: Found the characters in a word using pandas
+
+Thoughts:  It feels good
+
+**Link to work:** 
