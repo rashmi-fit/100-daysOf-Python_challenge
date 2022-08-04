@@ -665,10 +665,18 @@ Thoughts:  It feels amazing when you can use the lambda ,map, list comprehension
 
 **Link to work:** 
 
-**Day 81: 3rd Aug  Wednesday**
+**Day 82: 3rd Aug  Wednesday**
 
 Today's Progress: Found the characters in a word using pandas
 
 Thoughts:  It feels good
+
+**Link to work:** 
+
+**Day 83: 4th Aug  Thursday**
+
+Today's Progress: 
+
+Thoughts:  
 
 **Link to work:** 
