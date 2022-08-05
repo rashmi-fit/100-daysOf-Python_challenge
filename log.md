@@ -680,3 +680,11 @@ Today's Progress:
 Thoughts:  
 
 **Link to work:** 
+
+**Day 84: 5th Aug  Friday**
+
+Today's Progress: I am learning about dynamic programming using python
+
+Thoughts: i am able to join the dots and it feels good because i am able to understand
+
+**Link to work:** 
