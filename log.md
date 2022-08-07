@@ -688,3 +688,11 @@ Today's Progress: I am learning about dynamic programming using python
 Thoughts: i am able to join the dots and it feels good because i am able to understand
 
 **Link to work:** 
+
+**Day 85: 7th Aug  Sunday**
+
+Today's Progress: using backtracking i am able to solve the DSAD assignment .
+
+Thoughts: it feels amazing when putting all the bits and pieces of knowledge in one problem to solve it. 
+
+**Link to work:** https://github.com/rashmi-fit/learnbasics/tree/main/DSAD
