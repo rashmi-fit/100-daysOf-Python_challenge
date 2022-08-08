@@ -696,3 +696,11 @@ Today's Progress: using backtracking i am able to solve the DSAD assignment .
 Thoughts: it feels amazing when putting all the bits and pieces of knowledge in one problem to solve it. 
 
 **Link to work:** https://github.com/rashmi-fit/learnbasics/tree/main/DSAD
+
+**Day 86: 8th Aug  Monday**
+
+Today's Progress: Tried to solve the heart transplant assignment using dictionary and DJ Algorithm .
+
+Thoughts: I am finally able to make so logic and do the code ,i am feeling like top of the world
+
+**Link to work:** https://github.com/rashmi-fit/learnbasics/commit/3b481108ac280aecd90a544e561238da18dc8f62
