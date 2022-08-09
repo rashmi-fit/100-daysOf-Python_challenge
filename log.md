@@ -704,3 +704,16 @@ Today's Progress: Tried to solve the heart transplant assignment using dictionar
 Thoughts: I am finally able to make so logic and do the code ,i am feeling like top of the world
 
 **Link to work:** https://github.com/rashmi-fit/learnbasics/commit/3b481108ac280aecd90a544e561238da18dc8f62
+
+**Day 87: 9th Aug  Tuesday**
+
+Today's Progress: Using DJ Algorithm i found the shortest path and found the minimum distance it will cover.
+
+Thoughts: I am in love with python and it amazes me running an extra mile
+
+**Link to work:** https://github.com/rashmi-fit/learnbasics/commit/290f0cecd94615860082e17a9cc48d946361a404
+
+
+
+
+
