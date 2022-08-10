@@ -713,6 +713,14 @@ Thoughts: I am in love with python and it amazes me running an extra mile
 
 **Link to work:** https://github.com/rashmi-fit/learnbasics/commit/290f0cecd94615860082e17a9cc48d946361a404
 
+**Day 88: 10th Aug  Wednesday**
+
+Today's Progress: trying to implement adjacency list matrix
+
+Thoughts: I am still struggling to implement 
+
+**Link to work:** https://github.com/rashmi-fit/learnbasics/commit/21c6d7d0f72dbe43546128dfb5ac8dd4a5987e57
+
 
 
 
