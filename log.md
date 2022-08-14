@@ -721,6 +721,13 @@ Thoughts: I am still struggling to implement
 
 **Link to work:** https://github.com/rashmi-fit/learnbasics/commit/21c6d7d0f72dbe43546128dfb5ac8dd4a5987e57
 
+**Day 89: 14th Aug  Sunday**
+
+Today's Progress: DSAD aasignment for funfair and heart transplant has been submitted
+
+Thoughts: It feels good that i am able to complete the assignment with minimum help
+
+**Link to work:** https://github.com/rashmi-fit/learnbasics/commit/54893b79a88ea970ea56dd3e351ae72652339b91
 
 
 
