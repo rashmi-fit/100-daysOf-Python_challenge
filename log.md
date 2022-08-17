@@ -747,6 +747,14 @@ Thoughts: i am able to apply the logic and able to do it
 
 **Link to work:** 
 
+**Day 92: 17th Aug  Wednesday**
+
+Today's Progress: mfds assignment is completely done and submitted
+
+Thoughts: i am able code and it feels amazing
+
+**Link to work:** 
+
 
 
 
