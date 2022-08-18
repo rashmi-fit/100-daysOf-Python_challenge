@@ -755,7 +755,7 @@ Thoughts: i am able code and it feels amazing
 
 **Link to work:** 
 
-**Day 93: 17th Aug  Thrusday**
+**Day 93: 17th Aug  Thursday**
 
 Today's Progress: Removing the duplicate elements
 
