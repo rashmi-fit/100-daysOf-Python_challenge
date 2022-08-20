@@ -771,5 +771,13 @@ Thoughts: Still learning
 
 **Link to work:** 
 
+**Day 95: 20th Aug  Saturday**
+
+Today's Progress: I have done the apriori algorithm practice and done with dm assignment
+
+Thoughts: it feels good that i am able to do it now
+
+**Link to work:** 
+
 
 
