@@ -755,11 +755,19 @@ Thoughts: i am able code and it feels amazing
 
 **Link to work:** 
 
-**Day 93: 17th Aug  Thursday**
+**Day 93: 18th Aug  Thursday**
 
 Today's Progress: Removing the duplicate elements
 
 Thoughts: i still need to google but able to do it.
+
+**Link to work:** 
+
+**Day 94: 19th Aug  Friday**
+
+Today's Progress: Connecting to WEb API in Tableau and extracting countries data
+
+Thoughts: Still learning
 
 **Link to work:** 
 
