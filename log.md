@@ -779,5 +779,19 @@ Thoughts: it feels good that i am able to do it now
 
 **Link to work:** 
 
+**Day 96: 22nd Aug  Monday**
 
+Today's Progress: i have used hacker rank to write python code ,still not giving up
+
+Thoughts: it feels very difficult to work on it,logic is not coming to mind
+
+**Link to work:** 
+
+**Day 97: 23rd Aug  Tuesday**
+
+Today's Progress: I am writing the simple python scripts using list comprehensions
+
+Thoughts: i feel very low
+
+**Link to work:** 
 
