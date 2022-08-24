@@ -795,3 +795,10 @@ Thoughts: i feel very low
 
 **Link to work:** 
 
+**Day 98: 24th Aug  Wednesday**
+
+Today's Progress: i learnt about spark 
+
+Thoughts: i feel after learning python spark sound so easy and as i knew sql already it was amazing
+
+**Link to work:** https://github.com/rashmi-fit/coder/tree/main/learningSpark
