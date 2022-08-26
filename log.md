@@ -802,3 +802,11 @@ Today's Progress: i learnt about spark
 Thoughts: i feel after learning python spark sound so easy and as i knew sql already it was amazing
 
 **Link to work:** https://github.com/rashmi-fit/coder/tree/main/learningSpark
+
+**Day 99: 25th Aug  Thursday**
+
+Today's Progress: i learnt about web scrapping hurrey
+
+Thoughts: It feels amazing doing some web scrapping work even if i am noobie it feels amazing
+
+**Link to work:** webscrapper.py file
