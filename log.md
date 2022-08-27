@@ -808,5 +808,14 @@ Thoughts: i feel after learning python spark sound so easy and as i knew sql alr
 Today's Progress: i learnt about web scrapping hurrey
 
 Thoughts: It feels amazing doing some web scrapping work even if i am noobie it feels amazing
+for upcoming contribution i will follow https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced/?ref=leftbar-rightbar
 
 **Link to work:** webscrapper.py file
+
+**Day 99: 27th Aug  Saturday**
+
+Today's Progress: i have done a project with python web-scrapping
+
+Thoughts: I have no words to express this feeling right now, i am top of the heaven now. It feels so good that i am able to understand and think in a pythonic way
+
+**Link to work:** webscrapper.ipynb file project is done
