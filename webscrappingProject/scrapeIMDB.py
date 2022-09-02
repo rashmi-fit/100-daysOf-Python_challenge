@@ -1,7 +1,9 @@
 from bs4 import BeautifulSoup
 import requests
 import openpyxl
-
+"""
+This will import all the necessary libraries
+"""
 excel=openpyxl.Workbook()
 print(excel.sheetnames)
 sheet= excel.active
@@ -36,5 +38,5 @@ try:
 
 except Exception as e:
     print(e)
-
+# Saving the excel file and giving its name
 excel.save('IMDB Movie Rating.xlsx')
