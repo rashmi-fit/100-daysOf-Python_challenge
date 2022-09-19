@@ -12,4 +12,4 @@ How i felt : It sounds easy to learn this time
 
 Day3 : 19th Sept 2022
 What i did : learning how to use class and predefined function, also learnt about BST
-How i felt : This is easy this time
+How i felt : This is easy this time 
