@@ -13,3 +13,15 @@ How i felt : It sounds easy to learn this time
 Day3 : 19th Sept 2022
 What i did : learning how to use class and predefined function, also learnt about BST
 How i felt : This is easy this time 
+
+Day4 : 20th Sept 2022
+What i did : 
+How i felt : 
+
+Day5 : 21st Sept 2022
+What i did : 
+How i felt : 
+
+Day6 : 22nd Sept 2022
+What i did : setting up calculator and other lambda functions
+How i felt : its easy and i can do it by own
