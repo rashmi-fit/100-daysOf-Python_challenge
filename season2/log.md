@@ -25,3 +25,7 @@ How i felt :
 Day6 : 22nd Sept 2022
 What i did : setting up calculator and other lambda functions
 How i felt : its easy and i can do it by own
+
+Day6 : 23rd Sept 2022
+What i did : playing around with list
+How i felt : still learning
