@@ -29,3 +29,11 @@ How i felt : its easy and i can do it by own
 Day6 : 23rd Sept 2022
 What i did : playing around with list
 How i felt : still learning
+
+Day7 : 25th Sept 2022
+What i did : playing around with list
+How i felt : still learning
+
+Day8 : 26th Sept 2022
+What i did : 
+How i felt : 
