@@ -37,3 +37,7 @@ How i felt : still learning
 Day8 : 26th Sept 2022
 What i did : 
 How i felt : 
+
+Day9 : 28th Sept 2022
+What i did : Performing Python assignment
+How i felt : Its going good
