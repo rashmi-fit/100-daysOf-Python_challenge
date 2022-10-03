@@ -39,5 +39,5 @@ What i did :
 How i felt : 
 
 Day9 : 28th Sept 2022
-What i did : Performing Python assignment
+What i did : Performing Python assignment and trying to do a project 
 How i felt : Its going good

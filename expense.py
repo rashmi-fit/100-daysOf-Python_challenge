@@ -9,3 +9,6 @@ while not stopped:
 print(exp)
 print("total expenses: ", sum(exp))
 print("mac expense is: ", max(exp))
+
+
+#  type control c to stop
