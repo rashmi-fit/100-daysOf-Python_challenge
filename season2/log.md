@@ -42,6 +42,10 @@ Day9 : 28th Sept 2022
 What i did : Performing Python assignment and trying to do a project 
 How i felt : Its going good
 
-Day9 : 4th Oct 2022
+Day10 : 4th Oct 2022
 What i did : i took a look into the parenthesis program that i did before and played with PANDAS
 How i felt : I am still learning
+
+Day11 : 6th Oct 2022
+What i did : learnt about linkedlist
+How i felt : I still need to learn and implement a lot 
