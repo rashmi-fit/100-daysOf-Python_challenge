@@ -53,3 +53,15 @@ How i felt : I still need to learn and implement a lot
 Day12 : 7th Oct 2022
 What i did : learnt about string
 How i felt : I still need to learn and implement a lot 
+
+Day13 : 7th Oct 2022
+What i did : learnt about string
+How i felt : I still need to learn and implement a lot 
+
+Day14 : 7th Oct 2022
+What i did : learnt about string
+How i felt : I still need to learn and implement a lot 
+
+Day15 : 9th Oct 2022
+What i did : learnt about linkedlist
+How i felt : trying to solve from geeksforgeeks 
