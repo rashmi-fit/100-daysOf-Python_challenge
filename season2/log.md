@@ -65,3 +65,7 @@ How i felt : I still need to learn and implement a lot
 Day15 : 9th Oct 2022
 What i did : learnt about linkedlist
 How i felt : trying to solve from geeksforgeeks 
+
+Day16 : 26th Oct 2022
+What i did : cleaning up the folder
+How i felt : Still learning
